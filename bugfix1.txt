@@ -1,1 +1,4 @@
 Correção do erro 123 - Alteração para forçar conflito
+Correção do erro 123
+
+Forçar conflito de merge
